@@ -1,4 +1,4 @@
-package array;
+package array1D;
 
 public class SingleDimensionArray {
 	int arr[] = null;
